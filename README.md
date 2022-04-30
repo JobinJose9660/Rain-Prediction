@@ -65,3 +65,25 @@ dtypes: float64(16), object(7)
 
 memory usage: 25.5+ MB
 
+### Libraries
+
+1.pandas
+
+2.matplotlib
+
+3.seaborn
+
+4.scikit-learn
+
+### Algorithms
+
+6.Kneighbors`Classifier
+
+7 RandomForesetClassifier
+
+8.Logistic Regression
+
+9.XGBCLassifier
+
+# Explanotary Analysis
+ 
