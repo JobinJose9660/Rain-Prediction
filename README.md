@@ -86,4 +86,15 @@ memory usage: 25.5+ MB
 9.XGBCLassifier
 
 # Explanotary Analysis
+
+## Distrbution of Features
+
+![This is an image](https://github.com/JobinJose9660/Rain-Prediction/blob/main/1.PNG)
+  
+  
+  ## Distrubution of Rainfall
+  
+  ![This is an image](https://github.com/JobinJose9660/Rain-Prediction/blob/main/2.jpg)
+  
+     
  
